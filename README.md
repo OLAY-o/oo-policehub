@@ -1,6 +1,6 @@
 OLAY POLICE HUB
 
-Preview: https://cdn.discordapp.com/attachments/1261804508237922448/1276873582865158198/oo-policehub.png?ex=66ce6871&is=66cd16f1&hm=0d13c1e76f166271779bdadfc4b9ff5348967c46227b1f27770abf736483101b&
+Preview: ![oo-policehub](https://github.com/user-attachments/assets/872149af-3ff1-4317-a276-6c29d1a4a426)
 
 Preview: https://youtu.be/6rSK8S-LdfY
 
